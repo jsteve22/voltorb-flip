@@ -1,4 +1,5 @@
 # voltorb-flip
+#### Author: Jeremy Stevens
 
 ## Project setup
 ```
